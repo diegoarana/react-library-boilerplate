@@ -1,4 +1,4 @@
-# npm-react-typescript-template
+# react-library-boilerplate
 
 A template for publishing a React + TypeScript package to npm
 
@@ -32,4 +32,3 @@ Then publish your package by running
 - `npm publish`
 
 ### Happy Building ♡
-# react-library-boilerplate
