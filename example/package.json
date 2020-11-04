@@ -1,0 +1,30 @@
+{
+  "name": "npm-react-typescript-template-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "npm-react-typescript-template": "^1.0.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
